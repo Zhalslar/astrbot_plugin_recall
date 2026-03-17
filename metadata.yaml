@@ -5,3 +5,5 @@ help: 略
 version: v1.0.2
 author: Zhalslar
 repo: https://github.com/Zhalslar/astrbot_plugin_recall
+support_platforms:
+  - aiocqhttp
